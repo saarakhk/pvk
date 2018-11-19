@@ -1,2 +1,2 @@
 # pvk
-proge vahendite kasutamine
+progevahendite kasutamine
