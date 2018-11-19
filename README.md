@@ -1,2 +1,2 @@
-# pvk
-progevahendite kasutamine
+# Programmeerimisvahendite kasutamine
+
