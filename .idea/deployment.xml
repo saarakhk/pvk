@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="ikt_server">
+  <component name="PublishConfigData" autoUpload="Always" serverName="khk">
     <serverData>
-      <paths name="ikt_server">
+      <paths name="khk">
         <serverdata>
           <mappings>
             <mapping deploy="/public_html/pvk" local="$PROJECT_DIR$" web="/pvk" />
