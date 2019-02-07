@@ -47,7 +47,7 @@ require_once(MODEL_DIR.'Session.php');
 
 require_once(LIB_DIR.'utils.php');
 
-require_once(BASE_DIR.'dbconf.php');
+require_once(BASE_DIR.'db_conf.php');
 
 //kui kasutaja tuleb esmakordselt lehele, milline keel näidatakse vaikimisi
 define('DEFAULT_LANG', 'et');
